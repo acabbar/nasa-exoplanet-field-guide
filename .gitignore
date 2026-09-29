@@ -1,0 +1,17 @@
+# R session and editor state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary Office files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Large local NASA snapshot (keep locally; see app/data/README.md)
+app/data/nasa_exoplanets.csv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
