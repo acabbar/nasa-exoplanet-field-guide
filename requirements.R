@@ -3,7 +3,10 @@ required_packages <- c(
   "data.table",
   "dplyr",
   "ggplot2",
-  "DT"
+  "DT",
+  "plotly",
+  "scales",
+  "htmltools"
 )
 
 missing_packages <- setdiff(required_packages, rownames(installed.packages()))

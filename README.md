@@ -51,6 +51,7 @@ scientific context and limitations of the source data.
 - R and Shiny
 - data.table and dplyr for data preparation
 - ggplot2 for analytical graphics
+- Plotly for the interactive Earth-comparison chart
 - DT for the searchable data explorer
 - HTML and CSS for the field-guide interface
 
